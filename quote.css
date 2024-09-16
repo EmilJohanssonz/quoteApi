@@ -1,3 +1,5 @@
+/* Quote Generator */
+/* Style the body of the HTML document */
 body {
   font-family: Arial, sans-serif;
   display: flex;
@@ -8,11 +10,11 @@ body {
   background-image: url("/img/norrsken.jpg");
   background-size: cover;
 }
-
+/* Style the container */
 .container {
   text-align: center;
 }
-
+/* Style the header */
 button {
   padding: 10px 20px;
   font-size: 16px;
@@ -22,11 +24,11 @@ button {
   border: none;
   border-radius: 5px;
 }
-
+/* Add hover effect to the button */
 button:hover {
   background-color: #0056b3;
 }
-
+/* Style the quote display */
 #quote-display {
   margin-top: 20px;
   font-size: 18px;
